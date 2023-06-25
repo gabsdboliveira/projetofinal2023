@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #BC8F8F;
+}
+
+h1 {
+    color: purple
+   }
+
+p {
+    color: blueviolet
+}
+
+img{
+    border-radius: 40%;
+}
+
+button {
+    color: black
+}
+
